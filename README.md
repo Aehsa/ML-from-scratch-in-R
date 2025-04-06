@@ -1,2 +1,2 @@
 # ML-from-scratch-in-R
-This are ML models coded from scratch by me in R
+These are ML models coded from scratch in R by me
